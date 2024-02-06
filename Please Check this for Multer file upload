@@ -1,1 +1,1 @@
-Use multer_upload.html file to upload any file to uploads folder. 
+To upload any file using Multer, please run the 'multer_upload.html' file, as it contains an interface for uploading files. The backend code for Multer is written in 'index.js'.
