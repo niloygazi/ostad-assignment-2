@@ -73,7 +73,6 @@ const storage = multer.diskStorage({
   }
 });
 
-// Multer configuration for file uploads with renamed variables
 const upload = multer({ storage }).single('myFile');
 
 const PORT = 5500;
